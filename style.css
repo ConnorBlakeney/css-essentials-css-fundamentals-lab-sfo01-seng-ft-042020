@@ -12,8 +12,8 @@ img {
   display: block;
   margin: 0 auto;
 }
-nav,
-figcaption {
+
+nav figcaption {
   text-align: center;
 }
 
@@ -29,7 +29,7 @@ nav a {
   margin: 0 auto;
 }
 
-#details div{
+#details div {
   float: left;
   background-color: red;
   width: 25%;
